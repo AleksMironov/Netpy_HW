@@ -103,11 +103,11 @@ class Reviewer(Mentor):
 # Студенты
 student_1 = Student('Питер', 'Паркер', 'Муж')
 student_1.courses_in_progress += ['Python']
-student_1.finished_courses += ["Python для начинающх"]
+student_1.finished_courses += ["Python-разработчик с нуля"]
 
 student_2 = Student('Майлс', 'Моралез', 'Муж')
 student_2.courses_in_progress += ['Python']
-student_2.finished_courses += ["Python для начинающх"]
+student_2.finished_courses += ["Python-разработчик с нуля"]
 
 # Лекторы
 lecturer_1 = Lecturer('Отто', 'Октавиус')
